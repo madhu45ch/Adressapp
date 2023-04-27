@@ -1,0 +1,19 @@
+{
+  "Adress": [
+    {
+      "City":"pamur",
+      "State":"Andhra Pradesh",
+      "pincode":"523108"
+    },
+    {
+      "City":"ongole",
+      "State":"Andhra Pradesh",
+      "pincode":"523002"
+    },
+    {
+      "City":"gachiboeli,Hydrabad",
+      "State":"Telangana",
+      "pincode":"500032"
+    }
+  ]
+}
